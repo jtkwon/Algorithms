@@ -12,3 +12,5 @@ node -e "console.log(require('./').reverseString1('TSET'))"
 1. Reverse String
 2. Palindrome
 3. Reverse Integer
+4. Max Characters
+5. Fizz Buzz
